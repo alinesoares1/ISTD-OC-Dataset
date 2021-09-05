@@ -30,7 +30,7 @@ You can directly access ISTD-OC dataset for testing **[here](https://drive.googl
 
 If this project helped in any way in your research work, feel free to cite the following paper.
 
-### How Far Deep Learning Systems for Text Detection and Recognition in Natural Scenes are Affected by Occlusion? ([here]https://doi.org/10.1007/978-3-030-86198-8_15)
+### How Far Deep Learning Systems for Text Detection and Recognition in Natural Scenes are Affected by Occlusion? [here](https://doi.org/10.1007/978-3-030-86198-8_15)
 
 This work address the issue of occlusions in scene text identification.We first investigated and evaluated the effectiveness of four popular deep archi-tectures for scene text detection, i.e., PAN, CRAFT, PSENet, EAST, and others four for scene text recognition task, i.e., ROSETTA, RARE, CRNN, and STAR-Net on ICDAR 2015 dataset without any generated occlusion. Second, we present as a contribution of this work a methodologyto  implement  occlusion  and  generate  large  datasets  of  occluded  scene  text  innatural images from benchmarks such as ICDAR 2015. This brand new dataset,named Incidental Scene Text Dataset - Occlusion (ISTD-OC), contains 15000 images for detection and 65450 cropped word images for recognition, with levelsof occlusions in an interval that ranges from zero to a hundred percent. We alsostreamline the research over the ISTD-OC dataset by conducting a comparativeevaluation on the eight state-of-the-art text identification algorithms reviewed, a baseline reference for future research in the specific occlusion problem.
 
