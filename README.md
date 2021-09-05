@@ -5,6 +5,7 @@
 The ISTD-OC dataset is one of our contributions on "How Far Deep Learning Systems for TextDetection and Recognition in Natural Scenes are Affected by Occlusion?" published at CBDAR 2021. The dataset is derivated from a systematic methodology in which, for each image, word instances were occluded differently. The work is only a small step towards recognizing occluded texts in natural scenes robustly. Still, the proposal is sufficient for the initial analysis of current models' generalization ability in the face of occlusion.
 
 Data partitioning (train and test) was performed following the methodology of ICDAR 2015 dataset. So, to provide occluded images through the ISTD-OC dataset, we've collected 1500 images for detection and 4468 images for recognition from the ICDAR 2015 dataset. 
+
 **Notes**:
 
 1. For more information and demo run step by step, check out these tutorials: **[here](https://github.com/alinesoares1/ISTD-OC-Dataset/blob/main/istdoc-text-detection.ipynb)** and **[here](https://github.com/alinesoares1/ISTD-OC-Dataset/blob/main/istdoc-text-recognition.ipynb)** on Google Colab/Drive.
